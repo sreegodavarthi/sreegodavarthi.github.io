@@ -812,15 +812,13 @@ body.scale-effect .btn-holder .btn-play {
 
 #home .menu .logo-flat {
     /*menu logo*/
-    height: 200px;
-    margin-top: -14px;
-    background: #06A763;
+    margin-bottom: -10px;
 }
 
 #home .menu .logo-flat img {
     /*logo image*/
     width: 100%;
-    padding: 30px 44px 44px 44px;
+    padding: 20px;
 }
 
 #home .menu-open {
