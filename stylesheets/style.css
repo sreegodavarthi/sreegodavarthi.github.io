@@ -818,7 +818,7 @@ body.scale-effect .btn-holder .btn-play {
 #home .menu .logo-flat img {
     /*logo image*/
     width: 100%;
-    padding: 20px;
+    /* padding: 20px; */
 }
 
 #home .menu-open {
